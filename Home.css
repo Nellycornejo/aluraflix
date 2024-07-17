@@ -1,0 +1,22 @@
+
+.categories {
+    padding: 20px;
+    font-family: 'Georgia', serif;
+  }
+  
+  .category {
+    margin-bottom: 20px;
+  }
+  
+  .category h2 {
+    font-size: 24px;
+    color: #333;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  

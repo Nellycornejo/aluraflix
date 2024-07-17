@@ -1,0 +1,21 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Video 1",
+        "category": "Frontend",
+        "image": "https://via.placeholder.com/150",
+        "video": "https://www.youtube.com/watch?v=abc123",
+        "description": "Descripción del Video 1"
+      },
+      {
+        "id": 2,
+        "title": "Video 2",
+        "category": "Backend",
+        "image": "https://via.placeholder.com/150",
+        "video": "https://www.youtube.com/watch?v=def456",
+        "description": "Descripción del Video 2"
+      }
+    ]
+  }
+  

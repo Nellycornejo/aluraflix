@@ -1,0 +1,46 @@
+/* src/pages/NewVideo.css */
+.new-video {
+    padding: 20px;
+    font-family: 'Georgia', serif;
+  }
+  
+  .new-video h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .new-video form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .new-video label {
+    font-family: 'Georgia', serif;
+    margin: 5px 0;
+  }
+  
+  .new-video input,
+  .new-video select,
+  .new-video textarea {
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-family: 'Georgia', serif;
+  }
+  
+  .new-video button {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #f5f5dc;
+    cursor: pointer;
+    font-family: 'Georgia', serif;
+  }
+  
+  .new-video button:hover {
+    background-color: #e0e0d1;
+  }
+  

@@ -1,0 +1,15 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: #f5f5dc;
+    padding: 10px 20px;
+    text-align: center;
+    border-top: 2px solid #ddd;
+    font-family: 'Georgia', serif;
+  }
+  
+  .footer .logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #333;
+  }
+  
